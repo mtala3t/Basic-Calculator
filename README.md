@@ -1,4 +1,4 @@
-# Java Simple Calculator
+# Java Basic Calculator
 
 It is a Java simple calculator with the basic mathematical operations.
 
